@@ -1,4 +1,4 @@
-# Rubén Norte
-**Email:** rubennorte@gmail.com
+# Hendrik Liebau
+**Email:** mail@hendrik-liebau.de
 **Source:** https://github.com/facebook/react.git
-**SHA:** 56922cf7
+**SHA:** 5e9eedb5

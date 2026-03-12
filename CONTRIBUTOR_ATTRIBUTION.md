@@ -1,4 +1,4 @@
-# dan
-**Email:** dan.abramov@me.com
+# Jack Pope
+**Email:** jackpope1@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** c0d218f0
+**SHA:** c80a0750

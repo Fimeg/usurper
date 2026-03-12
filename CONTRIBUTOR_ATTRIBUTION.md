@@ -1,4 +1,4 @@
-# Bodhi Russell Silberling
-**Email:** bodhirussellsilberling@yahoo.com
+# dependabot[bot]
+**Email:** 49699333+dependabot[bot]@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** ba833da4
+**SHA:** bae6dd09

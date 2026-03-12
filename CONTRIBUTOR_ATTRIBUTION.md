@@ -1,4 +1,4 @@
-# Zeya Peng
-**Email:** zeyap@users.noreply.github.com
+# Jack Pope
+**Email:** jackpope1@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 1ddff43c
+**SHA:** 1e315236

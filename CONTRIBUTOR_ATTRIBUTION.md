@@ -1,4 +1,4 @@
-# Bodhi Russell Silberling
-**Email:** bodhirussellsilberling@yahoo.com
+# Ruslan Lesiutin
+**Email:** 28902667+hoxyq@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 80b1cab3
+**SHA:** 8b2e903a

@@ -1,4 +1,4 @@
-# Josh Story
-**Email:** story@hey.com
+# Ruslan Lesiutin
+**Email:** 28902667+hoxyq@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** ea679202
+**SHA:** ed69815c

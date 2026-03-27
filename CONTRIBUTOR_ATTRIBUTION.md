@@ -1,4 +1,4 @@
-# dependabot[bot]
-**Email:** 49699333+dependabot[bot]@users.noreply.github.com
+# Andrew Clark
+**Email:** git@andrewclark.io
 **Source:** https://github.com/facebook/react.git
-**SHA:** 96005e44
+**SHA:** 9627b5a1

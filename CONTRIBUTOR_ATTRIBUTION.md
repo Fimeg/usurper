@@ -1,4 +1,4 @@
-# Jack Pope
-**Email:** jackpope1@gmail.com
+# Bodhi Russell Silberling
+**Email:** bodhirussellsilberling@yahoo.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 1e315236
+**SHA:** 2233b7d7

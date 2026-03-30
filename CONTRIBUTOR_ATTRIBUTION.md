@@ -1,4 +1,4 @@
-# Rubén Norte
-**Email:** rubennorte@gmail.com
+# ALİ DENİZ TARTMA
+**Email:** aliden1z@outlook.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 0418c8a8
+**SHA:** 044d56f3

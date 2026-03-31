@@ -1,4 +1,4 @@
-# Dmitrii
-**Email:** jsleitor@gmail.com
+# Bodhi Russell Silberling
+**Email:** bodhirussellsilberling@yahoo.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 808e7ed8
+**SHA:** 80b1cab3

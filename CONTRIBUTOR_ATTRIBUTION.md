@@ -1,4 +1,4 @@
-# Sebastian "Sebbie" Silbermann
-**Email:** sebastian.silbermann@vercel.com
+# Hendrik Liebau
+**Email:** mail@hendrik-liebau.de
 **Source:** https://github.com/facebook/react.git
-**SHA:** 12ba7d81
+**SHA:** 1b45e243

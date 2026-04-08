@@ -1,4 +1,4 @@
-# mofeiZ
-**Email:** 34200447+mofeiZ@users.noreply.github.com
+# Dmitrii
+**Email:** jsleitor@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 77319e2a
+**SHA:** 808e7ed8

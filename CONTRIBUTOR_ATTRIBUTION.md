@@ -1,4 +1,4 @@
-# Eugene Choi
-**Email:** 4eugenechoi@gmail.com
+# Jack Pope
+**Email:** jackpope1@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 705268dc
+**SHA:** 733d3aaf

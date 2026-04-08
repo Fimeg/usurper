@@ -1,4 +1,4 @@
-# Kid
-**Email:** 44045911+kidonng@users.noreply.github.com
+# Sebastian "Sebbie" Silbermann
+**Email:** sebastian.silbermann@vercel.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 3f0b9e61
+**SHA:** 404b38c7

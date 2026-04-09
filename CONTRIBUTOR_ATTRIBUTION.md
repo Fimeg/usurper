@@ -1,4 +1,4 @@
-# Zeya Peng
-**Email:** zeyap@users.noreply.github.com
+# Eugene Choi
+**Email:** 4eugenechoi@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 6a04c369
+**SHA:** 705268dc

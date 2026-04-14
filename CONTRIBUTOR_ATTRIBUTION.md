@@ -1,4 +1,4 @@
-# Josh Story
-**Email:** story@hey.com
+# Rubén Norte
+**Email:** rubennorte@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 4b073f48
+**SHA:** 56824423

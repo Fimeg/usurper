@@ -1,4 +1,4 @@
-# Sebastian "Sebbie" Silbermann
-**Email:** sebastian.silbermann@vercel.com
+# Rubén Norte
+**Email:** rubennorte@gmail.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 00f063c3
+**SHA:** 0418c8a8

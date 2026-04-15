@@ -1,4 +1,4 @@
-# Michael Aspinwall
-**Email:** maspinwall@google.com
+# Kubernetes Release Robot
+**Email:** k8s-release-robot@users.noreply.github.com
 **Source:** https://github.com/kubernetes/kubernetes.git
-**Original:** bb2bb3cd
+**Original:** b2f73c0d

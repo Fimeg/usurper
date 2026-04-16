@@ -1,4 +1,4 @@
-# Sebastian "Sebbie" Silbermann
-**Email:** sebastian.silbermann@vercel.com
+# mofeiZ
+**Email:** 34200447+mofeiZ@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 74568e86
+**SHA:** 77319e2a

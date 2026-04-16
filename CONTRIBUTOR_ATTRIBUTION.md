@@ -1,4 +1,4 @@
-# Ruslan Lesiutin
-**Email:** 28902667+hoxyq@users.noreply.github.com
+# Zeya Peng
+**Email:** zeyap@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** ed69815c
+**SHA:** f6fe4275

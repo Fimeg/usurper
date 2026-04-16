@@ -1,4 +1,4 @@
-# Sebastian "Sebbie" Silbermann
-**Email:** sebastian.silbermann@vercel.com
+# Josh Story
+**Email:** story@hey.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** da9325b5
+**SHA:** ea679202

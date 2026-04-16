@@ -1,4 +1,4 @@
-# Josh Story
-**Email:** story@hey.com
+# Zeya Peng
+**Email:** zeyap@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**Original:** 4b073f48
+**Original:** f6fe4275

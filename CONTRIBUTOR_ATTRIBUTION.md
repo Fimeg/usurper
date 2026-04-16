@@ -1,4 +1,4 @@
-# Pavan Shinde
-**Email:** pavann97@gmail.com
+# Zeya Peng
+**Email:** zeyap@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** f944b4c5
+**SHA:** fe516014

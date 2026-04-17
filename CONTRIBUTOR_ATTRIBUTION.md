@@ -1,4 +1,4 @@
-# Jack Pope
-**Email:** jackpope1@gmail.com
+# mofeiZ
+**Email:** 34200447+mofeiZ@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** c80a0750
+**SHA:** d1727fbf

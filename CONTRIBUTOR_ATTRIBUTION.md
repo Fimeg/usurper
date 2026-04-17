@@ -1,4 +1,4 @@
-# Bodhi Russell Silberling
-**Email:** bodhirussellsilberling@yahoo.com
+# Sebastian "Sebbie" Silbermann
+**Email:** sebastian.silbermann@vercel.com
 **Source:** https://github.com/facebook/react.git
-**SHA:** 2233b7d7
+**SHA:** 23fcd7ce

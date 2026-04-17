@@ -1,4 +1,4 @@
-# Sebastian "Sebbie" Silbermann
-**Email:** sebastian.silbermann@vercel.com
+# Zeya Peng
+**Email:** zeyap@users.noreply.github.com
 **Source:** https://github.com/facebook/react.git
-**Original:** 23fcd7ce
+**Original:** bf45a68d

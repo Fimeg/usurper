@@ -1,4 +1,4 @@
 # Sebastian "Sebbie" Silbermann
 **Email:** sebastian.silbermann@vercel.com
 **Source:** https://github.com/facebook/react.git
-**Original:** da9325b5
+**Original:** 67e47593

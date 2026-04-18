@@ -1,4 +1,4 @@
-# Bhavya U
-**Email:** bhavyau@microsoft.com
+# Kyle Cutler
+**Email:** 67761731+kycutler@users.noreply.github.com
 **Source:** https://github.com/microsoft/vscode.git
-**Original:** b88bc8ee
+**Original:** 73bca3fa

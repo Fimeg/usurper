@@ -1,6 +1,6 @@
-# Contributor: yungsters
-**GitHub:** @yungsters
-**Email:** 160
+# Contributor: benjamn
+**GitHub:** @benjamn
+**Email:** 140
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

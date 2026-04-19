@@ -1,5 +1,5 @@
-# Contributor: flarnie
-**GitHub:** @flarnie
+# Contributor: koba04
+**GitHub:** @koba04
 **Email:** 67
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00

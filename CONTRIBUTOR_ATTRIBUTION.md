@@ -1,6 +1,6 @@
-# Contributor: vjeux
-**GitHub:** @vjeux
-**Email:** 207
+# Contributor: yungsters
+**GitHub:** @yungsters
+**Email:** 160
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

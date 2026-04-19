@@ -1,5 +1,5 @@
-# Contributor: bgw
-**GitHub:** @bgw
+# Contributor: salazarm
+**GitHub:** @salazarm
 **Email:** 24
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00

@@ -1,4 +1,4 @@
-# Ladislau Szomoru
-**Email:** 3372902+lszomoru@users.noreply.github.com
+# Rob Lourens
+**Email:** roblourens@gmail.com
 **Source:** https://github.com/microsoft/vscode.git
-**Original:** a653f75b
+**Original:** e40a68f4

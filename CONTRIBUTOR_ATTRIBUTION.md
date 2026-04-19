@@ -1,6 +1,6 @@
-# Contributor: cpojer
-**GitHub:** @cpojer
-**Email:** 73
+# Contributor: flarnie
+**GitHub:** @flarnie
+**Email:** 67
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

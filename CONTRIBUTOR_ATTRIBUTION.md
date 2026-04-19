@@ -1,6 +1,6 @@
-# Contributor: aickin
-**GitHub:** @aickin
-**Email:** 19
+# Contributor: philipp-spiess
+**GitHub:** @philipp-spiess
+**Email:** 18
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

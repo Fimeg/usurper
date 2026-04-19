@@ -1,6 +1,6 @@
-# Contributor: poteto
-**GitHub:** @poteto
-**Email:** 809
+# Contributor: jimfb
+**GitHub:** @jimfb
+**Email:** 456
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

@@ -1,6 +1,6 @@
-# Contributor: petehunt
-**GitHub:** @petehunt
-**Email:** 332
+# Contributor: rickhanlonii
+**GitHub:** @rickhanlonii
+**Email:** 311
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

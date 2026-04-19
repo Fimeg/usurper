@@ -1,6 +1,6 @@
-# Contributor: gnoff
-**GitHub:** @gnoff
-**Email:** 240
+# Contributor: chenglou
+**GitHub:** @chenglou
+**Email:** 222
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

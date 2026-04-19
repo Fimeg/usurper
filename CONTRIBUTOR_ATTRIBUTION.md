@@ -1,6 +1,6 @@
-# Contributor: keyz
-**GitHub:** @keyz
-**Email:** 28
+# Contributor: necolas
+**GitHub:** @necolas
+**Email:** 27
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

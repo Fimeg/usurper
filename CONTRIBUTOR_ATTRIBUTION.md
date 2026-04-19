@@ -1,6 +1,6 @@
-# Contributor: rickhanlonii
-**GitHub:** @rickhanlonii
-**Email:** 311
+# Contributor: hoxyq
+**GitHub:** @hoxyq
+**Email:** 243
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

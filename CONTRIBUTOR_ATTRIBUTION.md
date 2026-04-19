@@ -1,6 +1,6 @@
-# Contributor: unstubbable
-**GitHub:** @unstubbable
-**Email:** 57
+# Contributor: mondaychen
+**GitHub:** @mondaychen
+**Email:** 48
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 

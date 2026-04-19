@@ -1,4 +1,4 @@
-# Rob Lourens
-**Email:** roblourens@gmail.com
+# Bhavya U
+**Email:** bhavyau@microsoft.com
 **Source:** https://github.com/microsoft/vscode.git
-**Original:** 48fc6450
+**Original:** f603c142

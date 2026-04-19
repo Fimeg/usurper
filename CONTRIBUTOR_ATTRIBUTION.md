@@ -1,6 +1,6 @@
-# Contributor: joshduck
-**GitHub:** @joshduck
-**Email:** 21
+# Contributor: EugeneChoi4
+**GitHub:** @EugeneChoi4
+**Email:** 20
 **Source:** https://github.com/facebook/react.git
 **Harvested:** 2026-04-19T14:57:17-04:00
 
